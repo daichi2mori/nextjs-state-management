@@ -5,6 +5,7 @@ export default function Home() {
 		<main>
 			<Link href={"/redux"}>Redux</Link>
 			<Link href={"/zustand"}>Zustand</Link>
+			<Link href={"/jotai"}>Jotai</Link>
 		</main>
 	);
 }
